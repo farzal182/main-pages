@@ -4,9 +4,9 @@ body {
     font-size: 17px;
   
     background: #060606;
-    background: -webkit-linear-gradient(bottom right, #060606, #b3e2ced9);
-    background: -moz-linear-gradient(bottom right, #060606, #b3e2ced9);
-    background: linear-gradient(to top left, #060606, #b3e2ced9);
+    background: -webkit-linear-gradient(bottom right, #004643, #77B815);
+    background: -moz-linear-gradient(bottom right, #004643, #77B815);
+    background: linear-gradient(to top left, #004643, #77B815);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
